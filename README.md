@@ -1,4 +1,4 @@
-# ¡Hola!soy Lilyana 
+# ¡Hola mundo! <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/> soy Lilyana 
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
@@ -9,7 +9,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-## Bienvenidos a Mi GitHub!
+## Bienvenidos a Mi GitHub ✨
 
 Soy **Lilyana**, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 ### ¿Qué Hago? 💻
@@ -34,10 +34,16 @@ Te invito a explorar mis proyectos personales en [GitHub], donde encontrarás un
 
 Si quieres saber más sobre mi trabajo o colaborar en un proyecto, no dudes en contactarme:
 
-- [LinkedIn](http://www.linkedin.com/in/liilydev)
-- [Email](mailto:lilyanasa.or@gmail.com)
-
-
+<hr>
+<p align="center">
+   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
+   <br>
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/liilydev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:lilyanasa.or@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<br>
+</p>
 ---
 
 Gracias por visitar mi perfil, ¡espero que encuentres algo interesante aquí!
