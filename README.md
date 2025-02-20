@@ -30,31 +30,21 @@ Te invito a explorar mis proyectos personales en [GitHub], donde encontrarás un
 - **Herramientas**: Git, Docker.
 - **Metodologías**: Desarrollo Ágil, QA.
 
-### Conectemos 🌍
-
-Si quieres saber más sobre mi trabajo o colaborar en un proyecto, no dudes en contactarme:
 
 <hr>
 <p align="center">
-   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
+   <i>"Cuando las mentes se encuentran, la magia sucede. Hablemos y creemos algo extraordinario."🌟🌍💫 </i>
    <br>
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/liilydev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:lilyanasa.or@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-
 <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:lilyanasa.or@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/liily18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/liilydev"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	
+	<a href="https://instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>	
    <br>
 </p>
----
 
-Gracias por visitar mi perfil, ¡espero que encuentres algo interesante aquí!
 
 
 
