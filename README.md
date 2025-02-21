@@ -29,22 +29,54 @@ Diseño y desarrollo interfaces de usuario atractivas e intuitivas, asegurando u
 **🗄️ Bases de Datos y Gestión de Datos**
 Manejo bases de datos relacionales, principalmente PostgreSQL, MySQL y SQLite. Diseño esquemas de datos eficientes, optimizo consultas SQL y garantizo la integridad y seguridad de la información.
 
-**🚀 Otras Habilidades Técnicas**
-Control de versiones con Git y GitHub
-Implementación de seguridad en aplicaciones web
-Automatización de tareas con Python y Bash
+
+### Habilidades Técnicas 🔧
+
+## Skills:
+
+#### Programming Languages
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+[![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
+[![Jquery](https://img.shields.io/badge/jquery3%20-%231572B6.svg?&style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)](#)
+</br>
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](#)
+</br>
+[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
+[![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
+
+
+#### Frameworks
+
+[![Django](http)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
+
+
+#### Multimedia and Design
+
+[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=101010)](#)
+[![OBS Studio](https://img.shields.io/badge/obs%20studio%20-%2331A8FF.svg?&style=for-the-badge&logo=obs%20studio&logoColor=white&labelColor=101010)](#)
+
+
+#### Version Control
+
+[![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](#)
+[![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)](#)
+
 
 
 ### Mis Proyectos 🛠️
 
 Te invito a explorar mis proyectos personales, donde encontrarás una variedad de aplicaciones y scripts que he desarrollado a lo largo de mi carrera. Cada proyecto refleja mi dedicación al aprendizaje continuo asi como la mejora y crecimiento de mis habilidades.
 
-### Habilidades Técnicas 🔧
 
-- **Lenguajes**: Python, JavaScript, SQL, HTML, CSS.
-- **Frameworks**: Django, jQuery.
-- **Herramientas**: Git, Docker.
-- **Metodologías**: Desarrollo Ágil, QA.
 
 
 <hr>
